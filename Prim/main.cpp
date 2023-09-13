@@ -5,7 +5,7 @@ using namespace std;
 
 class TRI {
 public:
-    int a,b,w; // a¿Í b¸¦ ¿¬°á, weight aÂÊ¿¡¼­ ³ÖÀ½
+    int a,b,w; // a와 b를 연결하는 엣지, 가중치 w
 };
 
 class PQ{
