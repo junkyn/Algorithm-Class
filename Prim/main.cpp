@@ -5,7 +5,7 @@ using namespace std;
 
 class TRI {
 public:
-    int a,b,w; // a¿Í b¸¦ ¿¬°á, weight aÂÊ¿¡¼­ ³ÖÀ½
+    int a,b,w; // aÂ¿Ã bÂ¸Â¦ Â¿Â¬Â°Ã¡, weight aÃ‚ÃŠÂ¿Â¡Â¼Â­ Â³Ã–Ã€Â½
 };
 
 class PQ{
